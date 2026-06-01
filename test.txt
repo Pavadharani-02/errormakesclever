@@ -1,5 +1,7 @@
 hello this is test file
-any modification - create delete
-git add filename.xxx
-git commit -m "message"
-git push origin main
+any modification - create delete update from vs code to git
+1)git add filename.xxx
+2)git commit -m "message"
+3)git push origin main
+updates from git to vs
+1)git pull
